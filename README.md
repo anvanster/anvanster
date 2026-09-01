@@ -20,7 +20,7 @@ All Rust unless noted. Apache-2.0.
 ### Security research
 
 - **[CVE-2026-50163](https://github.com/oras-project/oras-go/security/advisories/GHSA-fxhp-mv3v-67qp)** (High) — link-following path traversal in `oras-go` tar extraction. CNCF ORAS project; fixed in 2.6.2.
-- **[CVE-2026-47699](https://github.com/confidential-containers/guest-components/security/advisories/GHSA-2q4h-8mfq-8h7j)** — escaping hardlink during OCI image unpacking in Confidential Containers `image_rs`; fixed in 0.20.0.
+- **[CVE-2026-47699](https://github.com/confidential-containers/guest-components/security/advisories/GHSA-84rc-2q4r-45pc)** — escaping hardlink during OCI image unpacking in Confidential Containers `image_rs`; fixed in 0.20.0.
 - Microsoft Security Response Center — bounty awarded, researcher recognition Q2 2026.
 
 ### Elsewhere
