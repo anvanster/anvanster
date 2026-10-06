@@ -25,6 +25,6 @@ All Rust unless noted. Apache-2.0.
 
 ### Elsewhere
 
-[CodeGraph](https://codegraph.astudioplus.com) · [LinkedIn](https://www.linkedin.com/in/andreyvasilevsky) · [dev.to](https://dev.to/anvanster)
+[CodeGraph](https://codegraph.astudioplus.com) · [LinkedIn](https://www.linkedin.com/in/andreyvasilevsky)
 
 English · Russian · Hebrew
